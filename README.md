@@ -1,6 +1,6 @@
 # How to create a basic storage dApp
 
-[Dev Skill Tree](https://app.learney.me/maps/devskilltree) node [Simple Front End with HTML/CSS/JS](https://app.learney.me/maps/devskilltree?concept=18)
+[Dev Skill Tree](https://app.learney.me/maps/devskilltree) node [Basic Storage dApp](https://app.learney.me/maps/devskilltree?concept=19)
 
 ## Description
 A basic storage dApp will store data on the blockchain. 
