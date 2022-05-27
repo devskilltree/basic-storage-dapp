@@ -9,4 +9,4 @@ In this tutorial we will start with:
 1. The Basic Connect dApp that is a simple front end to connect to the Ethereum network
 2. The Basic Storage Contract (MoodContract) that is storing text on the Ethereum Blockchain
 
-This tutorial is a dApp that adds the interaction between the front end and the storage contract. You can find the complete Basic Storage dAll in [index.html](index.html) in this repo.
+This tutorial is a dApp that adds the interaction between the front end and the storage contract. You can find the complete Basic Storage dApp in [index.html](index.html) in this repo.
